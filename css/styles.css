@@ -4,12 +4,13 @@
   text-decoration: underline;
 }
 
-.initially-hidden {
-  display: none;
+.hidden-pic:hover {
+  color: lightblue;
+  cursor: pointer;
 }
 
-button {
-  margin: auto;
+.initially-hidden {
+  display: none;
 }
 
 .green-background {

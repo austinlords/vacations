@@ -28,7 +28,8 @@ $(function () {
 
   $("#white").click(function () {
     $("body").removeClass("yellow-background red-background green-background");
-  })
+  });
+
 
 
 });
