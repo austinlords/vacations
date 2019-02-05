@@ -1,8 +1,25 @@
 .clickable:hover {
   color: yellow;
   cursor: pointer;
+  text-decoration: underline;
 }
 
 .initially-hidden {
   display: none;
+}
+
+button {
+  margin: auto;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
 }
